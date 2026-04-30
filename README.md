@@ -5,15 +5,25 @@
 🚀 Construindo sistemas escaláveis com arquitetura limpa e interfaces modernas.
 
 ---
-
 ## 🧠 Tecnologias
 
+### Backend
 - Java (Spring Boot)
+- Node.js
+- PHP
+
+### Frontend
 - React
 - JavaScript
-- MySQL / H2
+
+### Banco de Dados
+- MySQL
+- H2
+
+### Outros
 - APIs REST
 - Git & GitHub
+- Python (scripts e automações)
 
 ---
 
