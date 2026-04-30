@@ -48,7 +48,7 @@ Full digital banking system with authentication, transactions and dashboard.
 ## 📫 Contact
 
 - GitHub: https://github.com/lobo-fullstack
-- LinkedIn: (coloca aqui depois)
+- Gmail: rafaellobo905@gmail.com
 
 ---
 
