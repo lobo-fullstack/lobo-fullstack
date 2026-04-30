@@ -1,18 +1,19 @@
-# 👨‍💻 Hi, I'm Rafael Lobo
+# 👨‍💻 Rafael Lobo
 
-💡 I build real systems, not just tutorials.
+💡 Full Stack Developer building real-world systems with Java, Spring Boot and React.
 
-Full Stack Developer focused on building scalable, real-world applications with clean architecture and modern UI.
+🚀 Focused on scalable backends, clean architecture and modern UI.
+
+🇵🇹 Open to opportunities in Portugal and Europe
 
 ---
 
-## 🚀 About Me
+## 📊 Highlights
 
-- 💻 Backend: Java (Spring Boot)
-- 🌐 Frontend: React, JavaScript
-- 🗄️ Databases: MySQL, H2
-- ⚙️ REST APIs & Clean Architecture
-- 🌍 Open to opportunities in Portugal 🇵🇹 and across Europe
+- 🏦 Built a complete digital banking system (Lobo Bank Pro)
+- 🔐 Implemented authentication, transfers and account management
+- 📈 Designed financial dashboard with real-time data
+- ⚙️ Developed REST APIs following clean architecture principles
 
 ---
 
@@ -27,23 +28,10 @@ Full Stack Developer focused on building scalable, real-world applications with 
 
 ## 🧠 Tech Stack
 
-### Backend
-- Java (Spring Boot)
-- Node.js (APIs)
-- PHP
-
-### Frontend
-- React
-- JavaScript
-
-### Database
-- MySQL
-- H2
-
-### Tools
-- Git & GitHub
-- REST APIs
-- Python (automation scripts)
+Backend: Java (Spring Boot), Node.js, PHP  
+Frontend: React, JavaScript  
+Database: MySQL, H2  
+Tools: Git, REST APIs, Python  
 
 ---
 
@@ -58,22 +46,42 @@ Full Stack Developer focused on building scalable, real-world applications with 
 
 ## 🔥 Featured Project
 
-### 💳 Lobo Bank Pro
-Full digital banking system with authentication, transactions and dashboard.
+### 💳 Lobo Bank Pro — Digital Banking System
 
-✔ Account management  
-✔ Transfers between users  
-✔ Financial dashboard  
-✔ REST API backend  
+A full-stack banking application simulating real financial operations.
 
-🔗 https://github.com/lobo-fullstack/lobo-bank-pro  
+✨ Features:
+- User authentication (login/register)
+- Deposits, withdrawals and transfers
+- Account dashboard with balance and activity
+- Transaction history and filters
+- Admin module (PHP)
+
+🛠️ Tech Stack:
+- Backend: Java + Spring Boot
+- Frontend: JavaScript (moderno)
+- Database: H2 (file-based)
+
+🔗 GitHub: https://github.com/lobo-fullstack/lobo-bank-pro  
 
 ---
 
-## 📫 Contact
+## ⚡ What makes me different
 
-- GitHub: https://github.com/lobo-fullstack  
-- Gmail: Rafaellobo905@gmail.com
+- I focus on real systems, not tutorials  
+- Strong backend foundation with Java + Spring Boot  
+- Clean code and organized project structure  
+- Fast learner and execution-oriented  
+
+---
+
+## 🤝 Let's connect
+
+I'm actively looking for opportunities in Portugal and Europe.
+
+If you're looking for a developer who delivers real systems, let's talk.
+
+📩 Contact me via GitHub of Gmail
 
 ---
 
