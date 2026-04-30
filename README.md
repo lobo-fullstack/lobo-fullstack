@@ -1,26 +1,27 @@
 # 👋 Olá, eu sou Rafael Lobo
 
-💻 Desenvolvedor Full Stack focado em Java + Spring Boot + React
+💻 Desenvolvedor Full Stack focado em Java + Spring Boot + React  
 
-🚀 Construindo sistemas escaláveis com arquitetura limpa e interfaces modernas.
+🚀 Construindo sistemas reais com foco em performance, escalabilidade e experiência do usuário.
 
 ---
+
 ## 🧠 Tecnologias
 
-### Backend
+### 🔧 Backend
 - Java (Spring Boot)
-- Node.js
+- Node.js (APIs)
 - PHP
 
-### Frontend
+### 🎨 Frontend
 - React
 - JavaScript
 
-### Banco de Dados
+### 🗄️ Banco de Dados
 - MySQL
 - H2
 
-### Outros
+### ⚙️ Outros
 - APIs REST
 - Git & GitHub
 - Python (scripts e automações)
@@ -30,7 +31,7 @@
 ## 🔥 Projetos em destaque
 
 ### 💳 MiniBank Pro
-Sistema bancário completo com autenticação, transferências e controle de saldo.
+Sistema bancário completo com autenticação, transferências entre contas e controle de saldo.
 
 ### 📊 Painel de Assistência Social
 Dashboard com relatórios, gráficos e controle de dados reais.
@@ -42,10 +43,11 @@ Sistema de gerenciamento com controle de produtos e movimentações.
 
 ## 📈 Objetivo
 
-Busco oportunidade como Desenvolvedor Full Stack Júnior, contribuindo com soluções reais e evoluindo constantemente.
+Busco oportunidade como Desenvolvedor Full Stack Júnior, contribuindo com soluções reais, aprendendo continuamente e evoluindo dentro de um ambiente profissional.
 
 ---
 
 ## 📫 Contato
 
-- Email: rafaellobo905@email.com
+- Email: seuemail@email.com
+- GitHub: https://github.com/lobo-fullstack
